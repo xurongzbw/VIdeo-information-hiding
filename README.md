@@ -1,4 +1,4 @@
-# VIdeo-information-hiding
+# DCT VIdeo-information-hiding
 基于DCT的视频图像信息隐藏 
 
 send为秘密信息隐藏端口
